@@ -12,7 +12,7 @@ This is the first exercise in the Wes Bos JavaScript 30 challenge. The goal was 
 
 When the indicated keys are pressed, the associated audio file plays and the key is highlighted as indicated in the image below. When the transition ends the class is removed and the effect goes away.
 
-![Drum Kit Screenshot](/DrumKit_SS.png)
+![Drum Kit Screenshot](./assets/images/DrumKit_SS.png)
 
 [Live Drum Kit Page](https://katemcro.github.io/drumKitJS30_01/)
 

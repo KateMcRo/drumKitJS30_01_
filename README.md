@@ -14,7 +14,7 @@ When the indicated keys are pressed, the associated audio file plays and the key
 
 ![Drum Kit Screenshot](./assets/images/DrumKit_SS.png)
 
-[Live Drum Kit Page](https://katemcro.github.io/drumKitJS30_01/)
+[Live Drum Kit Page](https://katemcro.github.io/drumKitJS30_01_/)
 
 ## Credits
 
